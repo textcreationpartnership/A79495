@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance to the valiant and well deserving souldier, and the rest of the creditors of the common-vvealth; concerning the publique-faith souldiers arrears, and other publique debts of the nation. Written by Samuel Chidley, solicitor for the payment thereof till the time of the dissolution of the late Parliament, April 20. 1653.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79495</idno>
+            <idno type="STC">Wing C3841</idno>
+            <idno type="STC">Thomason E692_5</idno>
+            <idno type="STC">ESTC R206990</idno>
+            <idno type="EEBO-CITATION">99866068</idno>
+            <idno type="PROQUEST">99866068</idno>
+            <idno type="VID">118328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E692[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance to the valiant and well deserving souldier, and the rest of the creditors of the common-vvealth; concerning the publique-faith souldiers arrears, and other publique debts of the nation. Written by Samuel Chidley, solicitor for the payment thereof till the time of the dissolution of the late Parliament, April 20. 1653.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debts, Public --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118328:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE To the Valiant and well deſerving SOULDIER, And the reſt of the CREDITORS <hi>OF THE</hi> Common-VVealth; CONCERNING
+<list>
+                  <item>The <hi>Publique-Faith Souldiers Arrears,</hi>
+                  </item>
+                  <item>AND Other <hi>Publique Debts of the Nation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Written by <hi>Samuel Chidley,</hi> Solicitor for the payment there<g ref="char:EOLhyphen"/>of till the time of the diſſolution of the late Parliament, <hi>April 20. 1653.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 11.3</bibl>
+               <p>The Foundations are caſt down; what hath the juſt Man done?</p>
+            </q>
+            <p>London, Printed for the Authour. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118328:2"/>
+            <pb n="3" facs="tcp:118328:2"/>
+            <head>A REMONSTRANCE TO To the valiant and well-deſerving Souldier, and the reſt of the Creditors of the Common-Wealth, concerning the Publique Faith Souldiers Ar<g ref="char:EOLhyphen"/>rears, and other Publique Debts of the NATION.</head>
+            <p>
+               <seg rend="decorInit">C</seg>onſidering that in this preſent Juncture of time a few ſeaſonable words will be uſeful to the <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> who have opened their mouthes, and pant<g ref="char:EOLhyphen"/>ed a long time for ju<g ref="char:EOLhyphen"/>ſtice, as a tired Hart af<g ref="char:EOLhyphen"/>ter the Water-brookes, concerning the monies due unto many of them upon the Publique Faith, and Debenters; and becauſe they may not count
+<pb n="4" facs="tcp:118328:3"/>my labour concerning the ſame, or their disburſe<g ref="char:EOLhyphen"/>ments, or publique ſervices for the Common-Wealth as utterly loſt, notwithſtanding the diſſo<g ref="char:EOLhyphen"/>lution of the late Repreſentative, unto whom I have been an importunate Solicitor in much wea<g ref="char:EOLhyphen"/>rineſs, and diligent attendance, for the ſpace of 15 months laſt paſt, for ſatisfaction of the ſaid Debts, at the intreaty and earneſt deſire of many well-affected people who intruſted me with the manage<g ref="char:EOLhyphen"/>ment thereof; I do hereby declare to all the ſaid Creditors of the Common Wealth, that they need not be diſcouraged by what hath lately hap<g ref="char:EOLhyphen"/>ned to thoſe men who were then in preſent Autho<g ref="char:EOLhyphen"/>rity; for there is no cauſe to believe otherwiſe, but that this late and ſuddain change will work a more ſpeedy ſettlement of ſecurity, and general ſa<g ref="char:EOLhyphen"/>tisfaction to all the good people of <hi>England,</hi> with<g ref="char:EOLhyphen"/>out ſuch importunate ſolicitations for juſtice to thoſe whom God by his Providence ſetteth over Us. For albeit it is a rare thing to find Rulers ſui<g ref="char:EOLhyphen"/>tably qualified according to the Rule, able men in judgment, fearing God, and hating Covetouſneſs; yet it's hoped our future Governours will prove better then them of late. Nevertheleſs, this my Hope is not without ſome doubts and fears, leſt the continual ſins of the people, and their impeniten<g ref="char:EOLhyphen"/>cie, provoke the Lord of Hoſts to give children to be their Princes, and Babes to rule over them. Al<g ref="char:EOLhyphen"/>though my earneſt deſire is otherwiſe, that our Of<g ref="char:EOLhyphen"/>ficers may be Peace, and our Exactors Righteouſ<g ref="char:EOLhyphen"/>neſs, that ſo the Widdows and Fatherleſs may no
+<pb n="5" facs="tcp:118328:3"/>more be forced to complain of the vanity and de<g ref="char:EOLhyphen"/>ceit of men in high degree; nor ſhed their preci<g ref="char:EOLhyphen"/>ous tears upon the foot ſteps of their Oppreſſours, as water ſpilt upon the ground, which no man ga<g ref="char:EOLhyphen"/>thereth up. For doleful Experience teacheth Us what Fountains, Rivers, and Streams of teares, have iſſued from the bleeding Hearts of the ſighing Spi<g ref="char:EOLhyphen"/>rits of the groaning, afflicted, and needy people, to water the face of the Earth with continual ſprings from ſoules that wept in ſecret, and ſo cover'd the Altar of the Lord that no Sacrifice could be regard<g ref="char:EOLhyphen"/>ed or received with good-will at the hands of their Religious Oppreſſors. So that when they ſtretched forth their hands, the juſt God hid his eyes from them, and though they made many prayers he would not hear them, becauſe their hands were full of bloud. For indeed the price of bloud is very pre<g ref="char:EOLhyphen"/>cious; and the loſs of life is the loſs of loſſes, which was little regarded by them. For many of the ſaid Creditors have ventured their lives; many of them loſt their bloud, and the primeſt of their ſtrength; many of them loſt their husbands, their fathers, their brethren, and neer friends, and deer relations, in the late wars, whoſe Heirs or Executors they are, and could not have ſatisfaction for their Arreares, the price of their bloud, unleſs they would ſell the ſame at an inconſiderable value, or double the like ſums upon the Credit of the Common-wealth, which abundance of them could not do; many of them freely and voluntarily lent their Monies and Plate, with other uſeful Materials, for the uſe and benefit of the Common-wealth upon the Publique Faith,
+<pb n="6" facs="tcp:118328:4"/>and Propoſitions to be paid again out of Delin<g ref="char:EOLhyphen"/>quents <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of them borrowed upon credit <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Common<g ref="char:EOLhyphen"/>wealth, pay<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt for t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſame unto this day; a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d many of them being in extr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am pover<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſuffering impriſonment, and ſeeding continually upon the bread and water of affliction for want of that mo<g ref="char:EOLhyphen"/>neyes to relieve their neceſſities, and ſatisfie their Creditor, many of the faces of the poor Creditors have been ground away by reaſon thereof; as wit<g ref="char:EOLhyphen"/>neſs their countenances; and many have been forced through their extream neceſſity to ſell their Bills and Debts for 5 s. 4 s. 3 s. yea, leſs then 2 s. <hi>per</hi> pound, their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys failing with longing expectations for the performance of the Parl. promiſes upon their Declarations and Ingagements, they having deeply ſuffered for their conſtant good affections and adhe<g ref="char:EOLhyphen"/>rence to the Publique, and fainted with ſighing, and had no reſt; For the rich men by theſe deficiences, and taking advantages by the unrighteous Decrees, and grievous preſcriptions of the Parl by which they ſold juſtice for nine parts in ten, were tempted more and more as it were to pant after the duſt upon the heads of many of the poor Creditors, which made them weary; and in the bitterneſs of their hearts, in the middeſt of their pining and periſhing conditi<g ref="char:EOLhyphen"/>on wiſh for a new Repreſentative, which might make better proviſion for them. Beſides, divers well-affe<g ref="char:EOLhyphen"/>cted perſons having money due from the Common<g ref="char:EOLhyphen"/>wealth, upon the credit of the late King, Queen, and Prince; and in great neceſſity for want of it to ſup<g ref="char:EOLhyphen"/>ply themſelves and families, yet could not obtain it.
+<pb n="7" facs="tcp:118328:4"/>In the midſt of the peoples cloudy calamities they knew not what to do or ſay, they having waited ſo long, many of them above ſeven or ten yeares, and ſtill to have their hopes deferred from time to time made their hearts ſick, and their ſpirits ſo dead, that they could not commend the PARLIA<g ref="char:EOLhyphen"/>MENT to GOD or MAN for any good, And no marvel that they loſt the affections of the People, for they ſold the Needy (as it were) for ſilver, and the Poor for a pair of ſhooes, having more reſpect to their bruit Beaſts, then to men who were made in the Image of God: No truth or conſtancie was found in them; for amongſt 30 or 40 Orders gotten with much ado, from them, for the Publique Faith, they kept but a tenth part of them; and thoſe three or four which they obſerved were altogether ineffectual by their dela<g ref="char:EOLhyphen"/>tory proceedings, cloathing juſtice with ſack<g ref="char:EOLhyphen"/>cloth, and turning judgment to wormwood and gall. Although they were choſen and put in truſt to keep judgment, and do juſtice, and to uſe their utmoſt diligence and beſt endeavours for the good of thoſe who had intruſted them for their weal and not for their woe. And they had profeſſed, that juſtice they would not ſell deny, or defer, much leſs tire our the people and make them faint and periſh at their feet with fruitleſs attendance: yet they altogether broke the yoak of their Engagements, and burſt the bonds of their Promiſes, which they ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, appointed, and made to the Creditors of the Common-wealth, put<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:118328:5"/>them off with Orders from day to day, from week to week, from one fortnight to another, from month to month; yea, and we may ſay from year to year; for by their Order in <hi>January</hi> 1652. they faced about as they were in <hi>Ianuary</hi> 1651. as may appear by the books left in the Parliament Houſe. So did they make the poor Publique Faith to go round like a horſe in a Mill, and thereby ground the faces of the Poor, and ſtopt their eares at their cry.</p>
+            <p>Oftentimes have they been earneſtly deſired to make no further delay, but to aſcertain and ſatisfie the ſaid Debts by Diſcoveries, Cathedrals, and other Particulars, according to their own Orders and Acts read in the Houſe, and ſeveral times by them<g ref="char:EOLhyphen"/>ſelves appointed to be read again.</p>
+            <p>Therefore, the Creditors did make it their hum<g ref="char:EOLhyphen"/>ble Requeſt, that the ſame might be done without fail, and have a free and ſpeedy paſſage, as adjudging it to be both honourable and advantagious to the Common-Wealth, and much tending to the glory of God, and the juſt, equal, and orderly ſatisfaction of the many Thouſands of their well-affected Cre<g ref="char:EOLhyphen"/>ditors, who drew out their Souls for Good in times of publike and general calamities; and for whoſe re<g ref="char:EOLhyphen"/>lief, reparation, and juſt ſatisfaction, the Parliament would have been more forward, if they had loved the Common-Wealth better and preferred the Pub<g ref="char:EOLhyphen"/>lique good before their private ſelf-intereſt.</p>
+            <pb n="9" facs="tcp:118328:5"/>
+            <p>And although it concerned them in an eſpecial man<g ref="char:EOLhyphen"/>ner to vindicate the credit and reputation of the Publike Faith to ſucceeding Parliaments, that after ages in caſes of eminent danger &amp; extreme neceſſity might not ſtar<g ref="char:EOLhyphen"/>tle at the engagement upon the Publike Faith of the Commonwealth of <hi>England,</hi> but reſpect, credit, &amp; look upon it, as the moſt ſubſtantial ſecurity in the world. Yet they pretended other buſineſs intervening, that they could not diſpatch this buſineſs of great importance, al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough they oftentimes ordered it to be done the firſt buſineſs, yea and nothing to intervene; and entred the ſame in their Books, which were daily before them in the Houſe: yet neither their own words <hi>de die in diem,</hi> and Orders, to make ſpeed in the buſineſs, would drive them, nor the exceſſive pains of the Solicitors for the Publike Faith draw them, nor the multiplicity of their promiſes and engagements in conſcie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce oblige them, nor the cries of the poor (following them in the ſtreets and at the Parliament-doors) terrifie them, nor the fair ſpeeches of their cordial and boſome-friends woo them nor the extreme neceſſities of the Creditors com<g ref="char:EOLhyphen"/>paſſionately move them, nor their own Honour which lay at the ſtake rationally perſwade them to be true and faithful in their promiſes to the Creditors of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England;</hi> but they, like men of high de<g ref="char:EOLhyphen"/>gree, not being as good as their words, but breaking their own Orders, Promiſes, &amp; Engagements from time to time, as if the juſt God had given them up to hard<g ref="char:EOLhyphen"/>neſs of heart; and the ſelfiſh cares of the world choak<g ref="char:EOLhyphen"/>ed them, and covetous thoughts ſtupified their ſenſes, and made them (like men bewitched with their own fancies) both ſenſleſs and ſhameleſs.</p>
+            <p>Therefore the poor people were put to a ſtand, not
+<pb n="10" facs="tcp:118328:6"/>knowing what was the matter; for they were more and more diſtreſſed; and their Solicitors ſpent their preci<g ref="char:EOLhyphen"/>ous time in fruitleſs attendance: for they ſaw there was little good to be expected, without great pains, and im<g ref="char:EOLhyphen"/>portunare ſollicitations a whole yeer, for that which might be done in a day, becauſe there was no good ſet<g ref="char:EOLhyphen"/>tlement, nor a total removal of corrupt Lawyers, and other mercenary ſelf-ſeekers, out of the Houſe, who were the prime obſtructors of the Act for the aſcertain<g ref="char:EOLhyphen"/>ing and ſatisfying of the debts of the Nation, and were averſe to all diſcoveries which ſhould be made for the benefit of the Commonwealth (ſaying, <hi>Tuſh, they will come to nothing</hi>) as if they feared leſt themſelves, or ſome of their relations, ſhould be called to account concer<g ref="char:EOLhyphen"/>ning the Publike Revenue, although they had paſſed the Act of Oblivion.</p>
+            <p>And the pretences of ſuch corrupt men in great places being foreſeen by the well-affected, divers fair Propo<g ref="char:EOLhyphen"/>ſals were made and preſented to the Committee of Par<g ref="char:EOLhyphen"/>liament for matters of great importance, with the en<g ref="char:EOLhyphen"/>gagement of the undertakers, tending to the full and ſpeedy ſatisfaction of the debts of the Nation, to be ſa<g ref="char:EOLhyphen"/>tisfied out of Delinquents eſtates undiſpoſed of, and not remitted in the Act of General Pardon and Oblivi<g ref="char:EOLhyphen"/>on, And all the concealed eſtates of the late King, Queen, and Prince, Biſhops, Deans, Deans and Chap<g ref="char:EOLhyphen"/>ters, &amp; Prebends, <hi>&amp;c.</hi> and All moneys in Treaſurers and Collectors hands, which they have not yet accounted for, but concealed from the Commonwealth; And (eve<g ref="char:EOLhyphen"/>ry particular mans juſt right and legal intereſt preſerv<g ref="char:EOLhyphen"/>ed, and induſtry conſidered) the Mynes, Foreſts, and Waſte lands, and other particulars juſtly belonging to the Commonwealth, and of little or no uſe or benefit to
+<pb n="11" facs="tcp:118328:6"/>the State (as the Popiſh Cathedrals) were propoſed for the ſatisfaction of the publike Debts.</p>
+            <p>And by the Order of the Houſe <hi>April</hi> 27. 1652. the aforeſaid Committee was appointed to ſit in the Court of Wards, to receive Propoſals for the Publike Faith; and according to the appointment of the Chair<g ref="char:EOLhyphen"/>man of the Committee, the Undertakers (which were <hi>Thomas Pride, Dennis Gourdaine, Daniel Norman, Francis Finch, Francis Bloomer, Roger Smith, Thomas Sherman, Ro<g ref="char:EOLhyphen"/>bert Mallory, Clement Oxenbridge,</hi> Eſquires; <hi>William Allen, Hoogan Hovel,</hi> and <hi>Praiſe Barbone,</hi> Citizens of <hi>London</hi>) had notice given them to meet in the Court of Wards; and accordingly coming there, where they ſate in Commit<g ref="char:EOLhyphen"/>tee upon the buſineſs, there they owned the En<g ref="char:EOLhyphen"/>gagement, which they ſubſcribed and undertook, in relation to the ſatisfaction of the debts of Nation, to manage the buſineſs, and disburſe all ſums of money requiſite for all incident charges whatſoever thereunto belonging; provided they might be reimburſed out of the diſcoveries; for the undertaking of which worthy work, they deſerve to be had in perpetual remem<g ref="char:EOLhyphen"/>brance. For whoſe encouragement, divers other Gen<g ref="char:EOLhyphen"/>tlemen of good rank and quality engaged to disburſe one moyety for promotion of ſo good a work, and to be reimburſed with them, and to take the ſecurity of the aforeſaid Undertakers for the ſame.</p>
+            <p>The engagement of the Undertakers, and Propoſals being received by Order of the Houſe, it was expected that the Committee would have made a ſpeedy pro<g ref="char:EOLhyphen"/>greſs, and that the Houſe would make an Act to im<g ref="char:EOLhyphen"/>power the ſaid Undertakers accordingly for aſcertain<g ref="char:EOLhyphen"/>ing and ſatisfying of the Publike debts, according to the former Propoſals.</p>
+            <pb n="12" facs="tcp:118328:7"/>
+            <p>But contrary to expectation the Committee took no care of this weighty buſineſs of the Commonwealth, neither could they be got together without great diffi<g ref="char:EOLhyphen"/>culty, at the times and places appointed by the Houſe; for one or other would be ſtill wanting: and when there was a full number for a Committee, the Chair-man would be abſent, and they would not appoint another in his room; and people in waiting on them were put to much difficulty to keep ſome of the Committee toge<g ref="char:EOLhyphen"/>ther, whilſt they fetcht more. And when they had brought them in, then ſometimes the firſt would ſlip a<g ref="char:EOLhyphen"/>way, pretending other buſineſs. Many a weary ſtep have ſome of them taken, to finde them out in their nooks and crooks; with lanthorn and candle light have they been ſought; by night and by day have they been fol<g ref="char:EOLhyphen"/>lowed; whether Froſt or Snow, Wet or Dry, 'twas all one. The neceſſicies of the people were ſuch, that they could admit of no delay: Their patience was uſed, and alſo abuſed; with much ado, were they perſwaded to hold it faſt, without uſing violence to the violators of their promiſes, but that the Solicitor for the publike Faith pacified them with his conſtant attendance and great patience, for experience ſake, to ſee the end of their many Orders, promiſes, and fair ſpeeches, which moſt deceived the people, and did the greateſt injury, as is thought by ſome who admired at the patience of o<g ref="char:EOLhyphen"/>thers: but <hi>Solomon</hi> ſaith, <hi>Better is the end of a thing, then the beginning of a thing; and the patient in ſpirit, is better the preud in ſpirit.</hi>
+            </p>
+            <p>But though it was more difficult to get a Committee together to do us any good, then to hale five Bears to a ſtake; yet we had Committees divers times, through much induſtry and importunity, but when they came
+<pb n="13" facs="tcp:118328:7"/>they did little or nothing but trifle, and ſpin out the pre<g ref="char:EOLhyphen"/>cious time, and took upon them to amend the Bill, when the Houſe &amp; preſſed no ſuch thing in their Or<g ref="char:EOLhyphen"/>ders, but only for the names of the Commiſſioners; And they razed out ſuch lines which moſt ſavoured of honeſty, and tended beſt to the ſatisfaction of the peo<g ref="char:EOLhyphen"/>ple, that the Act might begin with theſe words, <hi>Be it Enacted,</hi> without expreſſing a ground for it, ſo making as if the Parliament were to rule by their own Wills, and not (like the beſt law makers) to render a Reaſon for the Laws they make, whereby the people ſhould be informed, and have ſome ground work to obey through love, as well as ſerve in fear.</p>
+            <p>And when the Committee mer, and altered a few lines, they thought they had made a large progreſs in it, enough for a whole week; a line or two to be men<g ref="char:EOLhyphen"/>ded was well the week following: another day to mend a word or two was ſomething; at another meeting to change or alter a letter was good. But all was as good as nothing: what catches and ſnatches, was at it! one while they were of one mind, at another meet<g ref="char:EOLhyphen"/>ing of a contrary opinion, doing and undoing, playing faſt and looſe, as if they had a mind to undoe the Cre<g ref="char:EOLhyphen"/>ditors of the Commonwealth, and had agreed together to weary them out, and keep the Solicitors for the Pub<g ref="char:EOLhyphen"/>like Faith to ſerve apprentiſhips, to follow their foot<g ref="char:EOLhyphen"/>ſteps in their delatory proceedings. And when the buſineſs depended before the Houſe, much adoe there was to get any thing done to good purpoſe, for they reſolved to paſs Acts for Delinquents Eſtates, upon doubling; and do other things that might prove as ſpoaks in our carriages, and thereby ſtrike off the Cha<g ref="char:EOLhyphen"/>riot-wheels of that gallant Bill, depending before them (and lying now in the Speakers Box) for general ſatis<g ref="char:EOLhyphen"/>faction
+<pb n="14" facs="tcp:118328:8"/>of the debts of the Nation, relief of the poor, and other Publike uſes, in order to the eaſing of the people, which they read 30. <hi>Novemb.</hi> and by ſeveral Orders, <hi>Ordered it be read againe the ſecond time, the firſt buſineſs and nothing to interveen, the firſt buſineſs and no<g ref="char:EOLhyphen"/>thing to intervene,</hi> yet they never did it firſt nor laſt, when they could they would not, and now if they would they cannot, God hath removed them, and now I find the words of underſtanding men to be true, which they have often ſpake at the Bell-ſavage, and elſewhere; &amp; which I deſired might have proved otherwiſe, That the work which I had in hand was too good, &amp; too great for God to honor this Parliament with, And whereof I did admoniſh them in my printed books which I deli<g ref="char:EOLhyphen"/>vered at the Parliament door. But I thought I would never give over, till I ſaw the utmoſt of it, believing the words of the wiſe would prove true, He that being often reproved, and hardeneth his neck, ſhall ſudden<g ref="char:EOLhyphen"/>ly be deſtroyed and that without remedy. For I had a deſigne in it for God (and for the reputation of the Nation) beyond the ſatisfaction of a thouſand men, who under their hands entruſted me to act and manage their buſineſs for them.</p>
+            <p>But the Parliament ſtill pretended other weighty buſineſs, and that ſome<g ref="char:EOLhyphen"/>thing elſe muſt be done before; and to ſay the truth, they ſate ſo little a while together, but three hours in a day, and four dayes in a week, that is twelve hours in a week, but a dayes work at the moſt, but fifty two dayes in a yeer, that they could not do much good for the Nation, ſo that juſtice at the moſt came by drops, and did not run down as it ought, like a mighty ſtream. And how was it poſſible for weighty matters to be well done and diſpatcht, when there was ſo much time ſpent in idleneſs between? And by Calculation they have not ſate of this thirteen yeers, the ſpace of three; for twelve hours in ſeven dayes, is but according to one yeer in ſeven yeers. Therefore the Triennial Parliament, upon this account, would not have ended their three yeers ſitting, till the time of three Apprentiſhips were com<g ref="char:EOLhyphen"/>pleat and fully ended.</p>
+         </div>
+         <div type="appendix">
+            <pb n="15" facs="tcp:118328:8"/>
+            <head>The Appendix.</head>
+            <p>YOu welaffected and valiant Souldiers, that have born the burden and heat of the day; You bear not the Sword for nought.</p>
+            <p>And you that have lent Money, Plate, or other uſeful mate<g ref="char:EOLhyphen"/>rials for the Commonwealth; do not repent your bargain.</p>
+            <p>You welaffected Creditors of the late King, <hi>&amp;c.</hi> The right Succeſſors muſt pay their Predeceſſors lawful debts.</p>
+            <p>And you that have been plundered by the late Kings party, and loſt up<g ref="char:EOLhyphen"/>on the publick account; The Parliament gain'd when you loſt, and now their loſſe is like to be your gain.</p>
+            <p>I ſuppoſe many of you are not unacquanted with the Parliaments propoſi<g ref="char:EOLhyphen"/>tions, promiſes, and invitations in their many Declarations, when they were in diſtreſs and fear, they promiſed very ſolemnly that they would be willing and ready upon all occaſions, to aſſiſt and protect all thoſe that were im<g ref="char:EOLhyphen"/>ployed in the ſervice of the Commonwealth in the Battle at <hi>Edge-hill,</hi> with their lives and fortunes, to the utmoſt of their power: and ordered the ſame to be recorded in Parliament. Book declar. pag. 744. The 29 <hi>Sept.</hi> 1642. They promiſed that the lenders upon the publick faith ſhould be re<g ref="char:EOLhyphen"/>paid their mony with intereſt at 8. per cent. and ſhould be taken into conſi<g ref="char:EOLhyphen"/>deration for a further recompenſe for their forwardneſs. <hi>Jan.</hi> 7. following; they acknowledged the peoples forwardneſs, and promiſed to be as careful of their ſafety, welfare, and reimburſment with intereſt accordingly as of their owne, The 30 of <hi>Jan.</hi> 1643. they declared that thoſe who have the publick faith engaged to them for their ſecurity, and have been faithful and ſo continue, ſhould be publickly conſidered, their loſſes fully repayed, and ſuch perſons regarded and honourably rewarded, and not ſlighted or neg<g ref="char:EOLhyphen"/>lected; but one way or other ſhould be remembred to their owne honour and good of their poſterity, and that the Delinquents Eſtates ſhould be im<g ref="char:EOLhyphen"/>ployed for payment of publick debts, relieving of the common burthens, and repayring particular loſſes: Theys have promiſed to Order the revenue in ſuch a way, that the publick charge might be defrayed; the Souldiers pay juſtly and duly ſetled, and the debts of the Commonwealth ſatisfied, and to remove all grievances and oppreſſions of the people, and to eſtabl<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> peace and righteouſneſs in the land, and this they ſay they declare not in word onely, but really and ſpeedily they intend to effect, and accor<g ref="char:EOLhyphen"/>dingly they expected Gods bleſſings on their proceedings.</p>
+            <p>What could they ſay more then they ſaid? or what could they do leſs then they did, in purſuance of what they promiſed? What incouragements was there upon their promiſes? and what a multitude of diſcouragements in
+<pb n="16" facs="tcp:118328:9"/>driving them to performance thereof? They made the people feed upon the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and follow after the eaſt-winde, and fed them with the bread of tears, and gave them vinegar and gall to drinke, and made them live in miſery and dye in diſtreſs, crying to God agaiſt them in the bitterneſs of their ſouls.</p>
+            <p>While I was your ſolicitor at the Parliament-door I learned experience, and was more acquainted with the ſorrows and grievances of the Nation then before, and ſympathized with the peoples afflictions: And who was more ſenſible thereof then my ſelf? How many have come to me with ſighs and groans in their ſpirits, and tears flowing from their eyes, enough to melt the ſtouteſt heart, unleſs he were without all ſenſe of humanity! In my Parlia<g ref="char:EOLhyphen"/>mentary pilgrimage, I ſaw ſo many objects of miſery, (and to me they made their mournful applications and pitiful complaints) which cauſed me to ex<g ref="char:EOLhyphen"/>poſtulate with my ſelf in my minde at the Parliament: <hi>Am I the meſſenger of tears, travelling as it were in the valley of Megiddon, between the high and ſhady rocks of Adamant, inhabited with Satyrs, under the ſable clouds of affliction? And muſt I be laden with bottles of precious tears, in evil times, times of war, in mourning times, in ſuch times wherein one man ruleth over another to his hurt? Then ſaid I to Laughter, Thou art mad; and to Mirth, what doth it? For the red <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of war prevaileth, and peace is taken from the earth, and the chambers of the world are hang'd with diſcontent.</hi> Nevertheleſs I was reſolved not to fear, though the mountains ſhould be moved in the midſt of the ſeas. But I wiſh<g ref="char:EOLhyphen"/>ed for ſome man, like <hi>Job,</hi> who ſate as a King in the Army, to ſearch out the cauſe he knoweth not, and pluck the prey out of the jaws of the wicked, to relieve the fatherleſs, and make the heart of the widow to ſing for joy. This is the Nations expectation; And although my deſire is not fully accompliſh<g ref="char:EOLhyphen"/>ed, yet to that man, or thoſe men, whom God raiſeth up to be the Supreme Authority of the Nation, I ſhall make my application, upon their declara<g ref="char:EOLhyphen"/>tion or manifeſtation, and reſt,</p>
+            <closer>
+               <signed>Your friend and Procurator, to his power, <hi>Samuel Chidley.</hi>
+               </signed>
+               <dateline>
+                  <hi>Belſavage,</hi> 
+                  <date>April 22. 1653.</date>
+               </dateline>
+GOD Grant Repentance to our Enemies, GOD Give Salvation to the holy Separated Church, GOD Preſerve the peace of the Commonwealth of <hi>England. Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
